@@ -25,7 +25,6 @@ This app extracts video transcripts and uses **GPT-4** to let you ask natural la
 
 ---
 
-
 ## 📂 Project Structure
 
 ```plaintext
@@ -83,6 +82,8 @@ No keys are stored locally.
 - 📚 Summarize educational material
 
 - 🗣️ Ask follow-up questions on key moments
+
+---
 
 ## ✨ Contributing
 
