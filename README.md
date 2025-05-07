@@ -50,7 +50,7 @@ game_design_swarm/
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/youtube_chat_AI.git
+git clone https://github.com/andredisa/youtube_chat_AI.git
 cd youtube_chat_AI
 pip install -r requirements.txt
 ```
